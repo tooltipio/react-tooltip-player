@@ -1,6 +1,6 @@
 {
   "name": "react-tooltip-player",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "To go live and start displaying campaigns to users, you'll need to install Tooltip Player script on your site.",
   "main": "lib/index.js",
   "scripts": {
