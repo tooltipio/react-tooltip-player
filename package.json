@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tooltip/react-tooltip-player.git"
+    "url": "git+https://github.com/tooltipio/react-tooltip-player.git"
   },
   "keywords": [
     "React",
@@ -21,9 +21,9 @@
   "author": "Alex Clever",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tooltip/react-tooltip-player/issues"
+    "url": "https://github.com/tooltipio/react-tooltip-player/issues"
   },
-  "homepage": "https://github.com/tooltip/react-tooltip-player#readme",
+  "homepage": "https://github.com/tooltipio/react-tooltip-player#readme",
   "dependencies": {
     "prop-types": "^15.6.2"
   },

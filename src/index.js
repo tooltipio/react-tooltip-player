@@ -85,7 +85,7 @@ export default class TooltipPlayer extends Component {
                 let n = t.createElement(e);
                 let s = t.getElementsByTagName(e)[0];
 
-                n.src = "https://cdn.Tooltip.com/static/player.js";
+                n.src = "https://cdn.tooltip.io/static/player.js";
                 n.type = "text/javascript";
                 n.async = (typeof async !== 'undefined') ? async : true;
                 s.parentNode.insertBefore(n, s);
